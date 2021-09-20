@@ -9,7 +9,7 @@
   <h3>Tech Stack</h3>
   <li>Only JavaScript with some html code
     
-  #<h3>Features:</h3>
+ <h3>Features:</h3>
 1. Responsive 
 2. Web based game
 3. design made without using Libraries
