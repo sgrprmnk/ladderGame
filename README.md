@@ -1,5 +1,5 @@
 # ladderGame
-
+<img src="https://github.com/sgrprmnk/ladderGame/blob/main/Screenshot%20(284).png">
 <h2>How to play</h2>
 <ul>
   <li>Use arrow keys, wasd, or hjkl to control the snake.</li>
