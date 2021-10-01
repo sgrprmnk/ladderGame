@@ -7,26 +7,26 @@
     <li>Avoid crashing.</li>
 </ul>
 
-<h3>Usage:<h3>
+<h2>Usage:</h2>
         <p>
             <li>to shift our focus play forr 15 mins
             <li> to be more productive
         </p>
-        <h3> Specialty</h3>
+        <h2> Specialty</h2>
         <p>Web-based Game</p>
-        <h3>Tech Stack</h3>
+        <h2>Tech Stack</h2>
         <ul>
             <li>more than 85% of the code is written using JavaScript and rest of the code with html css
         </ul>
-        <h3>Features:</h3>
+        <h2>Features:</h2>
         <ol>
             <li> Responsive
             <li> Web-based game
             <li> design made without using Libraries
         </ol>
-        <h4>Note:</h4>
+        <h2>Note:</h2>
         <p>
-            This is designed without using JavaScript Libraries </p>
+            This is designed without using JavaScript Libraries
 
         <h2>Easy to maintain/update</h2>
         <p>The code is written using Semantic Element and it's a clean code, so we can easily manipulating features and
