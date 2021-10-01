@@ -33,3 +33,4 @@
             fix the bug (if any) in future</p>
         <h2>New Update</h2>
     <li>bug fixes</li>
+    <li>Performance Improvement</li>
