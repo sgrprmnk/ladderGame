@@ -25,9 +25,9 @@
             <li> design made without using Libraries
         </ol>
         <h2>Note:</h2>
-        <p>
-            This is designed without using JavaScript Libraries
-
+    <ul>
+    <li>This is designed without using JavaScript Libraries</li>
+</ul>
         <h2>Easy to maintain/update</h2>
         <p>The code is written using Semantic Element and it's a clean code, so we can easily manipulating features and
             fix the bug (if any) in future</p>
