@@ -26,3 +26,7 @@
     <h4>Note:</h4> <p>
     This is designed without using JavaScript Libraries
     </ol>
+<h2>Easy to maintain/update</h2>
+            <p>The code is written using Semantic Element and it's a clean code, so we can easily manipulating features and fix the bug (if any) in future</p>
+    <h2>New Update</h2>
+    <li>bug fixes
