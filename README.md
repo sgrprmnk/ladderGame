@@ -23,6 +23,7 @@
             <li> Responsive
             <li> Web-based game
             <li> design made without using Libraries
+            <li> Unlimited no of times playing
         </ol>
         <h3>Note:</h3>
     <ul>
