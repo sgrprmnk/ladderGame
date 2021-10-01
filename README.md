@@ -24,7 +24,7 @@
             <li> Web-based game
             <li> design made without using Libraries
         </ol>
-        <h2>Note:</h2>
+        <h3>Note:</h3>
     <ul>
     <li>This is designed without using JavaScript Libraries</li>
 </ul>
